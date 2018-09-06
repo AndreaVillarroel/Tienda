@@ -63,6 +63,7 @@ public class Categorias {
 		if (indice == -1)
 			throw new CategoriaNoExistente();
 		return indice;
+		//modificado	
 
 	}
 //busca categoria y devuelve un valor , si no hay categoria devuelve falso
